@@ -1,0 +1,65 @@
+
+
+html {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	width: auto;
+	height: auto;
+	background-attachment: fixed;
+	background-image:  
+	  url("file:///C:/Users/raych/Desktop/Projects/Beatles%20Quiz/try3.JPG");
+	}
+
+body {
+	max-width: 100%;
+	min-width: 50%;
+	text-align: center;
+	padding: 50px 200px 50px 200px; 
+	font-size: 20;
+	margin: 0 auto;
+}
+
+#img-caption{
+	font-size: 18;
+}
+
+
+#image {
+	max-width: 100%;
+	max-height: 100%;
+	margin-top: -2%;
+	margin-bottom: 1%;
+	
+
+}
+
+.ainda {
+	margin: 0 auto;
+	width: auto;
+	text-align: left;
+	display: table;
+
+}
+
+#gosto {
+	background-color: #E9DCD4;
+	padding: 5 30 30 30;
+	border-radius: 25px;
+	margin: 120 50 50 50;
+}
+
+#primo {
+	font-size: 20;
+	color: white;
+	background-color: green;
+
+}
+
+#lambda {
+	font-size: 18;
+	margin: 0 0 0 -30;
+	
+}
+
